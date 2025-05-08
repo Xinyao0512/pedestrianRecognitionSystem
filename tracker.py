@@ -7,6 +7,7 @@ from deep_sort.deep_sort import DeepSort
 
 cfg = get_config()
 cfg.merge_from_file("./deep_sort/configs/deep_sort.yaml")
+
 deepsort = DeepSort(cfg.DEEPSORT.REID_CKPT,
                     max_dist=cfg.DEEPSORT.MAX_DIST, min_confidence=cfg.DEEPSORT.MIN_CONFIDENCE,
                     nms_max_overlap=cfg.DEEPSORT.NMS_MAX_OVERLAP, max_iou_distance=cfg.DEEPSORT.MAX_IOU_DISTANCE,
