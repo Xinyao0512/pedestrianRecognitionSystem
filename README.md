@@ -25,15 +25,6 @@
 - https://github.com/ZQPei/deep_sort_pytorch
 - https://github.com/dyh/unbox_yolov5_deepsort_counting
 
-**北方工业大学**
-**计19-3**
-**钱晟**
-
-### 可通过以下方式联系我
-- mail:xinyaoqian694@gmail.com
-- github:https://github.com/Xinyao0512
-- twitter:@qian2697581590
-
 # Graduation design of pedestrian recognition system based on machine learning
 ## Function realization
 ### login system
@@ -60,15 +51,6 @@
 - https://github.com/ultralytics/yolov5/
 - https://github.com/ZQPei/deep_sort_pytorch
 - https://github.com/dyh/unbox_yolov5_deepsort_counting
-
-**North China University of Technology**
-**Computer Science 19-3**
-**Sheng Qian**
-
-### You can contact me in the following ways
-- mail:xinyaoqian694@gmail.com
-- github:https://github.com/Xinyao0512
-- twitter:@qian2697581590
 
 # 機械学習に基づく歩行者識別システム卒業設計
 ## 機能実装
@@ -97,14 +79,3 @@
 - https://github.com/ZQPei/deep_sort_pytorch
 - https://github.com/dyh/unbox_yolov5_deepsort_counting
 
-
-**北方工業大学**
-**情報科学19-3**
-**銭晟**
-
-###### 以下の方法で私に連絡することができます
-- mail:xinyaoqian694@gmail.com
-- github:https://github.com/Xinyao0512
-- twitter:@qian2697581590
-
-# ZH_Hans/EN_US/JA_jp readme 
